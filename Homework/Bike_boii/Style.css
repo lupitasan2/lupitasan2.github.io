@@ -14,7 +14,7 @@ animation: wheel 2s infinite linear;
 transform-origin: center;
 transform-box: fill box;
 }
-#Man Bike
+#Man-Bike
 @keyframes wheel {
     from{
 transform: rotateZ(0deg);
